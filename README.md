@@ -1,4 +1,8 @@
 # 감정 분석을 통한 관심도 및 조언 시스템
+| 김한별 | 손지형 | 유지환 | 조윤서 |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/260116cd-e256-412f-a050-c40fe591a114" width="300"> | <img src="https://github.com/user-attachments/assets/6b676bff-a891-48b8-a1f8-2341e9b0b9cf" width="300"> | <img src="https://github.com/user-attachments/assets/7bca579f-f5bd-49be-94be-65dd61f1d71e" width="300"> | <img src="" width="300"> |
+| 내용 | 내용 | 내용 | 내용	|
 
 ## 프로젝트 개요
 
@@ -21,6 +25,7 @@
 ### 2. 대화 내용과 관심도 정도를 바탕으로 조언
 
 - 텍스트 데이터와 관심도를 바탕으로 객관적이고 실질적인 조언을 제공합니다.
+- 구체적인 대화 내용을 바탕으로 대화하기 좋은 주제를 제공합니다.
 
 
 ## 사용방법
