@@ -1,8 +1,7 @@
 # 감정 분석을 통한 관심도 및 조언 시스템
 | 김한별 | 손지형 | 유지환 | 조윤서 |
 | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/260116cd-e256-412f-a050-c40fe591a114" width="300"> | <img src="https://github.com/user-attachments/assets/6b676bff-a891-48b8-a1f8-2341e9b0b9cf" width="300"> | <img src="https://github.com/user-attachments/assets/7bca579f-f5bd-49be-94be-65dd61f1d71e" width="300"> | <img src="" width="300"> |
-| 내용 | 내용 | 내용 | 내용	|
+| <img src="https://github.com/user-attachments/assets/260116cd-e256-412f-a050-c40fe591a114" width="300"> | <img src="https://github.com/user-attachments/assets/6b676bff-a891-48b8-a1f8-2341e9b0b9cf" width="300"> | <img src="https://github.com/user-attachments/assets/7bca579f-f5bd-49be-94be-65dd61f1d71e" width="300"> | <img src="https://avatars.githubusercontent.com/u/173759702?s=400&v=4" width="300"> |
 
 ## 프로젝트 개요
 
@@ -18,16 +17,14 @@
 
 ### 1. 감정 및 관심도 분석
     
-- 텍스트 데이터를 바탕으로 상대봥의 관심도와 감정을 분석합니다.
+- 상대방과의 대화내용 바탕으로 서로의 관심도와 감정을 분석하고 평가합니다.
 
-- 다양한 감정을 수치화하여 상대방이 느끼고 있는 감정의 정도를 평가합니다.
+- 호감도 분석 기준
+
+    - 긍정적인 단어와 부정적인 단어에 각각 점수를 매겨 총합 점수를 통한 호감도 분류
+
 
 ### 2. 대화 내용과 관심도 정도를 바탕으로 조언
 
-- 텍스트 데이터와 관심도를 바탕으로 객관적이고 실질적인 조언을 제공합니다.
-- 구체적인 대화 내용을 바탕으로 대화하기 좋은 주제를 제공합니다.
+- 대화내용과 관심도를 바탕으로 객관적이고 실질적인 조언을 제공합니다.
 
-
-## 사용방법
-
-## 설치 및 실행
